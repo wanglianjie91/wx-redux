@@ -1,0 +1,1 @@
+function t(t){return"[object Object]"===Object.prototype.toString.call(t)}function n(t){return"[object Function]"===Object.prototype.toString.call(t)}function e(t,n){return Object.keys(t).filter((function(e){t[e],n[e]})).length>0}export{t as a,e as b,n as i};
